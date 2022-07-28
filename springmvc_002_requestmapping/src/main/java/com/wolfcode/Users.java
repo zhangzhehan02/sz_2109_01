@@ -7,6 +7,7 @@ package com.wolfcode;
 public class Users {
     private String name;
     private int age;
+    private String address;
 
     @Override
     public String toString() {
